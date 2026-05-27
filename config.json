@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervalidate",
+        "uuid": 4518580,
+        "checksum": "xj1toq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
